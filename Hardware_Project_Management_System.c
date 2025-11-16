@@ -1,8 +1,5 @@
 /*
-Authors : Tamim Tareq Ahmed Siam [2025-2-60-480]
-          Anik Roy Ankon [2025-2-60-491]
-          Neyamul Adnan [2025-2-60-476]
-
+Authors : Neyamul Adnan
 Project : Hardware Product Management System
 Date    : 31/08/2025
 */
